@@ -13,6 +13,7 @@
 
 ### 项目简介
 
+原仓库地址 https://github.com/optimjie/bytedance-youthcamp-search-engine
 1057 Search Engine是**大厂候选人队**参加2022年字节跳动青训营实现的课程大项目。
 
 ### 项目运行
